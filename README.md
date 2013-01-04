@@ -5,7 +5,7 @@ Post a captcha to the [deathbycaptcha](http://www.deathbycaptcha.com/) service, 
 ## Installation
 
 
-    npm install deathbycaptcha
+    npm install deathbycaptcha2
 
 
 ## Usage :

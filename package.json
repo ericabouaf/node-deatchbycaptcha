@@ -1,5 +1,5 @@
 {
-    "name" : "deathbycaptcha",
+    "name" : "deathbycaptcha2",
     "description": "deathbycaptcha API wrapper for Node.js",
     "tags": ["captcha", "deathbycaptcha"],
     "author" : "Eric Abouaf <eric.abouaf@gmail.com>",
